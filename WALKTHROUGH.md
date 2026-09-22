@@ -1,14 +1,10 @@
-# 🚀 Software & Backend Engineering Mastery Studio
+# 🚀 Software & Backend Engineering Mastery Walkthrough
 
-> Bridging the gap from *"I completed an internship, but I don't think I can code"* to **confident, independent, production-grade Software & Backend Engineer**.
-
-![Track](https://img.shields.io/badge/Track-Software%20%26%20Backend%20Systems-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-6.0+-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+Welcome to your personalized roadmap and practical engineering system designed specifically to bridge the gap from **"I did an internship but don't think I can code"** to **confident, independent, production-grade Software & Backend Engineer**.
 
 ---
 
-## 💡 Overcoming Imposter Syndrome & The 4 Mental Traps
+## 💡 Why You Feel You "Can't Code" (And Why It's Completely Normal)
 
 During an internship, you are typically given ticket assignments inside a massive, pre-built codebase. You edit an existing file, add a missing parameter, or tweak a layout. 
 
@@ -25,14 +21,7 @@ Here are the 4 Imposter Traps you experienced and how we overcome them:
 
 ---
 
-## 🗺️ The 4-Phase Software Engineering Roadmap
-
-```
-Phase 1: Pure Logic & Problem Decomposition (Weeks 1–3)
- └── Phase 2: Backend Core - HTTP, SQL & APIs (Weeks 4–7)
-      └── Phase 3: Craftsmanship - TDD, Clean Arch & CI/CD (Weeks 8–10)
-           └── Phase 4: Systems & Scalability - Redis, Queues & Design (Weeks 11–14)
-```
+## 🗺️ The 4-Phase Production Engineer Curriculum
 
 ### Phase 1: Pure Logic & Problem Decomposition (Weeks 1–3)
 - **Memory & Call Stack**: Stack vs Heap, pass-by-value vs pass-by-reference, scope.
@@ -56,32 +45,10 @@ Phase 1: Pure Logic & Problem Decomposition (Weeks 1–3)
 
 ---
 
-## 💻 3 Production Portfolio Projects To Build
+## 💻 3 Real Production Portfolio Projects To Build
 
 Instead of building simple TODO apps, build these 3 production-grade portfolio systems:
 
 1. **Production REST Microservice with Auth & SQL**: User registration, bcrypt hashing, JWT middleware pipeline, parameterized raw SQL in PostgreSQL.
 2. **Redis-Backed Distributed Rate Limiter**: Sliding window rate limiting middleware protecting APIs against traffic spikes.
 3. **Asynchronous Background Task Worker Engine**: Message queue producer/worker with Dead-Letter-Queues (DLQ) and retry backoff.
-
----
-
-## ⚡ Running The Studio Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SpandanGowdaBC/engineering-mastery-studio.git
-   cd engineering-mastery-studio
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the dev server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open `http://localhost:5173/` in your browser.
